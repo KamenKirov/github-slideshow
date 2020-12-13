@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to out second slide!"
+I forgot the three dots
 ---
-Your test
 Use the left arrow to go back!
